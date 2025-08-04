@@ -14,3 +14,7 @@
 ### Matplotlib - https://matplotlib.org/
 ### Pandas - https://pandas.pydata.org/
 ### NumPy - https://numpy.org/
+
+# Future Updates:
+### I hope to increase functionality to other real estate asset classes in the future as well as expand market data scraping.
+### Enjoy!
